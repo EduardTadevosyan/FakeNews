@@ -47,7 +47,7 @@ The objective of this project is to build a machine learning model that can dist
 
 ## 📈 Results
 
-The model performed with ~99% accuracy on the test set. Below is the classification report summary and the accuracy curve:
+The model performed with ~99% accuracy on the test set. Below is the classification report summary and the accuracy score:
 
 ![Result](https://github.com/EduardTadevosyan/FakeNews/blob/main/Images/accuracy.png)
 
