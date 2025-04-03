@@ -48,11 +48,18 @@ The objective of this project is to build a machine learning model that can dist
 
 ## 📈 Results
 
-- **Accuracy**: ~97%  
+- **Accuracy**: ~99%  
 - **Evaluation**:
   - Precision, Recall, F1-Score reported via `classification_report`
   - Confusion matrix plotted for visual inspection
 
 Example output:
+          precision    recall  f1-score   support
+
+       0       0.98      0.99      0.99      4221
+       1       0.99      0.98      0.99      3432
+
+accuracy                           0.99      7653
+
 
 
